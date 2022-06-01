@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Insurance {
+public class Q7 {
     public static void main(String args[]) {
         int age;
         char ms, sex;

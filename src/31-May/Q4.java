@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FirstLast {
+public class Q4 {
     public static void main(String args[]){
         int num1,num2,num3,num,reverse=0,first,last,sum=0;
         Scanner sc = new Scanner(System.in);

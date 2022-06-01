@@ -1,6 +1,6 @@
  import java.util.Scanner;
 
- public class CalculateDiscount {
+ public class Q9{
 
      public static void main(String args[])
      {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseNumber {
+public class Q3 {
     public static void main(String args[]){
         int num,num1,num2,num3,reverse;
         Scanner sc = new Scanner(System.in);

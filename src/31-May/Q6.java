@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GrossSalary {
+public class Q6 {
     public static void main(String[] args) {
         double TA, DA, HRA, PF, bonus, gross, basic;
         Scanner sc = new Scanner(System.in);

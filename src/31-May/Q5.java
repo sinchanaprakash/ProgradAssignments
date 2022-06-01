@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ValidTriangle {
+public class Q5 {
 
         public static void main(String[] args) {
             int side1, side2, side3;
